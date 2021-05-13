@@ -1,5 +1,6 @@
 * FOOO bar
 
-how to commit into repo?
+- How to commit into repo?
 
-Nikak!!
+- Nikak!!
+- Ili kak?
